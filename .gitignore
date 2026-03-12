@@ -1,0 +1,4 @@
+pytorch-env/Include
+pytorch-env/Lib
+pytorch-env/Scripts
+pytorch-env/pyvenv.cfg
